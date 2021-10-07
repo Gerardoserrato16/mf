@@ -1,2 +1,2 @@
-# C20_boilerplate
-boilerplate for teacher activity
+# C23-AM-v4
+Plantilla para la actividad de la maestra
